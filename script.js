@@ -26,6 +26,12 @@ console.log(`My name is ${myName}, I'm ${age} years old. My lucky number is ${x}
  *   - divide your variable by 7
  *   - calculate the remainder of dividing your variable by 2
  */
+var a = 10
+console.log(a+5)
+console.log(a-5)
+console.log(a*3)
+console.log(a/7)
+console.log(a%2)
 
 /*
  * Prompt 4:
