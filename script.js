@@ -100,10 +100,13 @@ let cathleen = ['Cathleen', 186, 'New York'];
 
 // Cathleen decides that Thom can't be named "Thom" anymore. Remove "Thom" from
 // the thom array and replace it with "Tom".
-
+thom[0] = 'Tom'
 // Karolin just had her birthday; change Karolin's array to reflect her being
 // a year older.
-
+karolin[1] = 15
 // Change Cathleen's hometown from New York to "Gotham City".
-
+cathleen[2] = `Gotham City`
 // Remove "Pittsburgh" from Kristyn's array and add "Oakland".
+kristyn[2] = `Oakland`
+
+console.log(thom, karolin, kristyn, cathleen)
