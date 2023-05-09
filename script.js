@@ -85,6 +85,8 @@ let arrayLength = array4.length
 
 console.log(array4[arrayLength-2])
 
+console.log(array4[array4.length-2])
+
 /*
  * Prompt 3:
  *
