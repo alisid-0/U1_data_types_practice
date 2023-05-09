@@ -45,6 +45,11 @@ console.log(a%2)
  * Run a console.log that says 'hello my name is..." with your fullName. 
  */
 
+const firstName = `Ali`
+const lastName = `Siddiqui`
+const fullName = `${firstName} ${lastName}`
+console.log(`hello my name is ${fullName}`)
+
 
 /* Arrays */
 
