@@ -81,6 +81,10 @@ console.log(array3[1][1][1][0])
 
 let array4 = ['a', 'b', 'c', 'd', 'e'];
 
+let arrayLength = array4.length
+
+console.log(array4[arrayLength-2])
+
 /*
  * Prompt 3:
  *
